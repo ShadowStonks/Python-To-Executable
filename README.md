@@ -4,7 +4,15 @@ A program which converts Python scripts into standalone applications using cx_Fr
 
 ## Information
 
-This program is written in 100% Python, you can find the prebuilt Windows and macOS versions [here](https://github.com/ShadowStonks/Python-To-Executable):
+This program is written in 100% Python, you can find the prebuilt Windows version [here](https://github.com/ShadowStonks/Python-To-Executable)
+
+Remember to put your .py files you wish to convert in the same directory as the tool.
+
+### Running on macOS
+
+Due to how py2app works on macOS, I can't make a pre-compiled stand-alone app for the project, in order to use the tool on macOS exctract [the macOS zip](https://github.com/ShadowStonks/Python-To-Executable) file to $HOME/Documents, the folder exctracted should be called 'PyToApp' and contain 'GUI.py' and 'setups.py', the 'GUI.py' is the file you want to run to convert your files.
+
+Enjoy!
 
 ### Prerequisites
 
