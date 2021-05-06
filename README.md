@@ -31,3 +31,7 @@ pip3 cx_Freeze
 ### Running
 
 Simply download the python file from the [Releases](https://github.com/ShadowStonks/Discord-Bot/releases/) and run it using Python Launcher and you're done!
+
+P.S: Make sure to create an empty Python file called: 'setups.py'. 
+
+Enjoy!
