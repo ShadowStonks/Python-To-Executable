@@ -25,9 +25,12 @@ pip3 install tkinter
 ```
 
 ```
-pip3 cx_Freeze
+pip3 cx_Freeze   (for Windows version)
 ```
 
+```
+pip3 py2app   (for macOS version)
+```
 ### Running
 
 Simply download the python file from the [Releases](https://github.com/ShadowStonks/Discord-Bot/releases/) and run it using Python Launcher and you're done!
